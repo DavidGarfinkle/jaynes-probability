@@ -1,4 +1,7 @@
 jupyter
+lea
+ipywidgets
 pymc3
 matplotlib
 numpy
+jupyter_contrib_nbextensions
